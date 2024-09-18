@@ -1,2 +1,3 @@
 # ccn_demo
-empty idk what i'm doing
+  empty repository of nothing
+  
